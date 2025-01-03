@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Pooja Jaishankar!
 
-<!--
-**Poojashankar16/Poojashankar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Final Year IT Student** passionate about crafting user-friendly applications and exploring innovative solutions in software development. 💻✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap
+- **Tools & Platforms**: Git, GitHub, VS Code
+- **Project Domains**: E-commerce, Productivity Tools, Health Applications
+
+---
+
+## 📌 Projects
+Here are a few projects that showcase my skills:
+- **Sound Metric Proximity Hearing App**: A hearing health tracker with audiogram visualization 🎧📊.
+- **Clothify Myntra**: An e-commerce product showcase website 🛍️.
+- **To-Do List App**: A simple task manager to boost productivity 📝.
+- **User Card Explorer**: A sleek UI for exploring user profiles 👤.
+
+Check out my repositories for more projects and collaborations! 🚀
+
+---
+
+## 🌱 What I'm Learning
+- Enhancing my frontend skills with frameworks like React.js.
+- Exploring backend technologies to become a full-stack developer.
+
+---
+
+## 💡 Get in Touch
+- LinkedIn: [Pooja Jaishankar](https://www.linkedin.com/in/pooja-jaishankar)
+- GitHub: [Pooja Jaishankar](https://github.com/Poojashankar16)
+
+---
+
+✨ Thank you for visiting my GitHub profile! I’m excited to connect, collaborate, and learn together. 😊
